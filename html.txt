@@ -1,0 +1,8 @@
+<html>
+  <head>
+      <title>HTML video Example</title>
+  </head>
+  <body>
+       <video src="teja.png ></videoo.mp4>
+ </body>
+</html>
